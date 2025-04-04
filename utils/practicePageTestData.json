@@ -1,0 +1,10 @@
+{
+        "radioOption": 3,
+        "value": "Jap",
+        "country": "Japan",
+        "dropdownOption": 1,
+        "checkboxOption": 2,
+        "name": "Ryohei",
+        "row": 2,
+        "expectedValue": "Learn"
+}
