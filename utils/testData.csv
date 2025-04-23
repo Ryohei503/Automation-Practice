@@ -1,0 +1,4 @@
+email,password,username,productName,firstName,lastName,address1,address2,country,state,city,zipcode,mobileNumber,description,name,cardNumber,cvc,expiryMonth,expiryYear
+xcbm@example.com,password,User1,Men Tshirt,Test,User1,123 Test St,Suite 1,United States,California,Los Angele,90001,1234567890,Test Data 0,Test User1,111111111111,123,12,26
+rbup@example.com,rqiovhn0284,User2,Blue Top,Test,User2,300 Washington Ave,,United States,Maryland,Chestertown,21620,948273649,Test Data 1,Test User2,409824740,039,09,27
+vmeiey@example.com,vneoguvei,User3,Winter Top,Test,User3,850 Test St,Suite 5,India,Tamil Nadu,Chennai,59374,049556485,Test Data 2,Test User3,30394639,857,01,25
